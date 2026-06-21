@@ -1,0 +1,265 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/camerapture.client.json"
+hash = "26f21b1486d7be53e2c85a5a127e070f005d1e0977cd2c3f5d6a9551ef1934b3"
+
+[[files]]
+file = "config/camerapture.server.json"
+hash = "401c518648e56f8769e5516fd8736d6e18a793044bddd0d6a75d05edb45931ba"
+
+[[files]]
+file = "config/collective.json5"
+hash = "acb405899e61a546e4c83ca5ba3e26b6a00f9a78d9383a58a14d5020283449c6"
+
+[[files]]
+file = "config/dangerous.json"
+hash = "01218adc5ecd1d566e82185bd74bdd7af6faabb8dcf1573e56eb00508912cac6"
+
+[[files]]
+file = "config/forgeconfigapiport.toml"
+hash = "40dbe5b348f89b8ded62bcdfe32807ffc3e78fa8e0f81607a739580019fe5450"
+
+[[files]]
+file = "config/gravestones.json"
+hash = "33d4bc617d54dc0e30507d789d951b466a5f3ba3c57889a2cc35c17b8e0fcc83"
+
+[[files]]
+file = "config/lifeseries/aprilfools/reallife.properties"
+hash = "cabbb1c0b18e6c4941e9684c8b3f46c71c6c7f9f967cc1a4505f950fe5765c18"
+
+[[files]]
+file = "config/lifeseries/aprilfools/simplelife.properties"
+hash = "cabbb1c0b18e6c4941e9684c8b3f46c71c6c7f9f967cc1a4505f950fe5765c18"
+
+[[files]]
+file = "config/lifeseries/client/lifeseries_client.properties"
+hash = "39d48184ed29ff09a8e95cdfc4f64ec7080fde7d19e3ba7802ce650dc0e58cc3"
+
+[[files]]
+file = "config/lifeseries/doublelife.properties"
+hash = "332937c704ab2868854ab5a342b2e447a9971e4dd7a4ed77920cf093ca13db8b"
+
+[[files]]
+file = "config/lifeseries/lastlife.properties"
+hash = "e2789b4ab60591f97eae4d36d0dd8017bdd8201bf455425c03fded0cb2bf84c9"
+
+[[files]]
+file = "config/lifeseries/limitedlife.properties"
+hash = "db18247747acc6dea3ab06a2901e9225f3752e6bedb77a5627fd0144f0628cc8"
+
+[[files]]
+file = "config/lifeseries/main/DO_NOT_MODIFY_doublelife_soulmates.properties"
+hash = "fb51b708f29d37f1ae5ce4878c4c2d6cb04bd18499da5fe6dff036ff5b0af0df"
+
+[[files]]
+file = "config/lifeseries/main/DO_NOT_MODIFY_secretlife_locations.properties"
+hash = "cd6e4c4103b7226a4e48feb1e22b43bdd6bb5e8d949e6c12d54805b00cd7a827"
+
+[[files]]
+file = "config/lifeseries/main/DO_NOT_MODIFY_secretlife_used_tasks.properties"
+hash = "cd6e4c4103b7226a4e48feb1e22b43bdd6bb5e8d949e6c12d54805b00cd7a827"
+
+[[files]]
+file = "config/lifeseries/main/DO_NOT_MODIFY_wildlife_snailnames.properties"
+hash = "cd6e4c4103b7226a4e48feb1e22b43bdd6bb5e8d949e6c12d54805b00cd7a827"
+
+[[files]]
+file = "config/lifeseries/main/lifeseries.properties"
+hash = "cb55d6248d49e69e4502dc429ae6dd400e8336ff573831e2c5474a68672be0eb"
+
+[[files]]
+file = "config/lifeseries/nicelife.properties"
+hash = "0715b519ece0a326197a4b43116489dbd7979c7b8ef369a56524dfe87961b538"
+
+[[files]]
+file = "config/lifeseries/pastlife.properties"
+hash = "4c48e2c829ec45aee6a62109d5baebd9508e269b62640ac54c1a74344d50dd14"
+
+[[files]]
+file = "config/lifeseries/secretlife.properties"
+hash = "37be3f54b145f01b1b93869cdb2c85e6ec62ebcffc22d58f0325e1d1dc74d091"
+
+[[files]]
+file = "config/lifeseries/secretlife/easy-tasks.json"
+hash = "18379bbcd2fabae3443e00269e28ff9add007e2ded5c5d6d24ccb9501966dd55"
+
+[[files]]
+file = "config/lifeseries/secretlife/hard-tasks.json"
+hash = "b2676a4b2dad67c0d0ef6b3107dbacb5ba3cbf10641e7b628cb2362b06091eab"
+
+[[files]]
+file = "config/lifeseries/secretlife/red-tasks.json"
+hash = "cd7cfb3618ddaefbc955008429c2b0743c121c592474ae2d5eb86645ba65cb6d"
+
+[[files]]
+file = "config/lifeseries/thirdlife.properties"
+hash = "15e4e81ee3d141d5482441b65b113fcc0539f487c3c138f5a8648070c73e6df6"
+
+[[files]]
+file = "config/lifeseries/wildlife.properties"
+hash = "1af332a186404fb05d31565de4eed59b4aa12971c7b1aafab01800119c9a8256"
+
+[[files]]
+file = "config/lifeseries/wildlife/easy-trivia.json"
+hash = "4b09cf08715d4bf2f5702385bc1acc610fe86463fe32a00addba1a446aacad3e"
+
+[[files]]
+file = "config/lifeseries/wildlife/hard-trivia.json"
+hash = "6aa546d2ba99d54639e6884cc8b0ceaf5697ad858bc20f4dbfddc3adb83e6853"
+
+[[files]]
+file = "config/lifeseries/wildlife/normal-trivia.json"
+hash = "8d3049e2d46162711a5a6ef2b4b843c95edf586608706651d9da70f54dfdced8"
+
+[[files]]
+file = "config/lifeseries/wildlife/snailskins/example.png"
+hash = "4fd83d8d0d631980958ff90cde107c63e2eee423cf44f81fc391902ed55e8055"
+
+[[files]]
+file = "config/lifeseries/wildlife/snailskins/snail.bbmodel"
+hash = "84bcccf6f9cdb2fadc794042933571009914d7ffe0f7352c82137bbd8b40f558"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "e8f1becee4d20e11702910e0d3eedbe35175922c6ba1a98b52efeb8c9ab3a11d"
+
+[[files]]
+file = "config/sodium-fingerprint.json"
+hash = "cd6aa177868c628185d5de5160ec20c6355d852387fb79899ef29dfc8b3811d1"
+
+[[files]]
+file = "config/sodium-mixins.properties"
+hash = "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "a254b8f531a8cef6ade6f1b860e80ee4cfbf5fb5905d0963c24b121c4f6518a2"
+
+[[files]]
+file = "config/villagernames.json5"
+hash = "98c9fc6616389a8e1305358c68060656a13fff1b02b3754ae33d07bb1f2d8fb4"
+
+[[files]]
+file = "config/villagernames/customnames.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/voicechat/category-volumes.properties"
+hash = "94c1c4f70e5b995fbd71e86d4fa646030437fecae0685875b560a55fbd0d0e56"
+
+[[files]]
+file = "config/voicechat/player-volumes.properties"
+hash = "0332261861a5ace96f503e85b0d48a8df74ea6c2f3545cd229543a6afb55ad96"
+
+[[files]]
+file = "config/voicechat/translations.properties"
+hash = "693643b1d393cbb3ea7f062afc4474fcd66e4036c4f8d7c056434979cbf512d1"
+
+[[files]]
+file = "config/voicechat/voicechat-client.properties"
+hash = "dbedb1076788f22b68938b71d7ede17bf5ed2ad1eba0d762c0fdcc87116b67bb"
+
+[[files]]
+file = "config/voicechat/voicechat-server.properties"
+hash = "2c974db4ff410cfe9dea5e68a47b70dd3e5f13a0892527790e9030f6aebbc920"
+
+[[files]]
+file = "mods/bl4cks-sit.pw.toml"
+hash = "1dd420dda40ff21e8ea9c59781669a9785b658dc6a39fa7b11097341a06b4a20"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "8ede653e29abfae547802f3f20afeb7eed852e07876092560f6b2dbc7d15d0d8"
+metafile = true
+
+[[files]]
+file = "mods/camerapture.pw.toml"
+hash = "3fb5d931188e9164521af37658c49592a52231449353c43dd15064a359097be0"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "a8b7b670568a93d900dcd412a47fa9495c437a6c19fe5f82e55540beb2389e8e"
+metafile = true
+
+[[files]]
+file = "mods/dangerous.pw.toml"
+hash = "42c437932faffd29efb805c932f44cf630047b73bdaf1f60394650381381d2b3"
+metafile = true
+
+[[files]]
+file = "mods/death-knell.pw.toml"
+hash = "4f7b4b3c52c9a914b3f63c4e76a425b0b8bedbd7c56acf5da2c756d74abda4a5"
+metafile = true
+
+[[files]]
+file = "mods/edf-remastered.pw.toml"
+hash = "df1d0a989999ce5acc1062ed28fdb7be620426f96cf5a2fdeec50a4cc4d15c58"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "91cbd0f5accaeb5ba27077286c6f4d149d1ac348626623b47ca5392e39625972"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "8c91080e610d7c8c40ae6445d36af1cf591fe1ebf70718b3e6d4714232b23592"
+metafile = true
+
+[[files]]
+file = "mods/life-series.pw.toml"
+hash = "7a07c4be65232bdf700a871f57677a8d2cc03a4839a36ee8f80fac0d564be13b"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "64eee34685461c44e657b33d9a982c1da9b3e21f2fe139907fc8a6d68359be14"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "b234ade7fd54bb9d99c27769cd1635b18835752676d0cdd0a29af2b4146251a8"
+metafile = true
+
+[[files]]
+file = "mods/players-drop-heads.pw.toml"
+hash = "4c26d25d5e87f05821328a088c51f14cbeadbc510adc583dddac548bf693f8fa"
+metafile = true
+
+[[files]]
+file = "mods/pneumono_core.pw.toml"
+hash = "18cc3229caf3ba4c00309bcae7bbc6461d49ed71b814667e274e9f2c4942431a"
+metafile = true
+
+[[files]]
+file = "mods/pneumono_gravestones.pw.toml"
+hash = "262497ac3b5b078f3ebe396a6c221ef6784b445620e45965fed4de1968c1441e"
+metafile = true
+
+[[files]]
+file = "mods/prickle.pw.toml"
+hash = "1fe3111b53ad44db2fb3506a53c2df37c70dfe07b2c8679f2592489a805ddeeb"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "e8e263c9e5b45ef826911470c4b07405012d8f43f77214f59e56690f7731e299"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "61b0b90fdcece885bca2ca639e5ddf696b374d51a93e3ee3deb8ecd07d57b9b0"
+metafile = true
+
+[[files]]
+file = "mods/view-distance-fix.pw.toml"
+hash = "def49401d0dd637076e57155716852f72aec5753590d0d21c2401c5c12ddc55d"
+metafile = true
+
+[[files]]
+file = "mods/villager-names-serilum.pw.toml"
+hash = "79ce7a8433ad0654519899860bd9b5cd69964d490650ce3bf92acb060795b565"
+metafile = true

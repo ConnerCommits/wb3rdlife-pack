@@ -1,0 +1,13 @@
+name = "Life Series"
+filename = "lifeseries-1.5.6+26.2-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/aLasQi8P/versions/NSkjo8HH/lifeseries-1.5.6%2B26.2-fabric.jar"
+hash-format = "sha512"
+hash = "f7b034ed1ee3ace21b853fb27962e40e34303f70ba864b27b3068f095086d9eb3e7fc3e7422b4adf58a25a44c99df57230a49a100d61fb40d5489c7c1ac324f5"
+
+[update]
+[update.modrinth]
+mod-id = "aLasQi8P"
+version = "NSkjo8HH"

@@ -1,0 +1,13 @@
+name = "Dangerous - Just A Difficulty Mod"
+filename = "Dangerous Fabric - 26.2 v1.5.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nsri5wVW/versions/5K5qQ2eP/Dangerous%20Fabric%20-%2026.2%20v1.5.1.jar"
+hash-format = "sha512"
+hash = "dade79d3a3210d630967482723c6a74d45651fd9559718743f713c382ccd0677b336de17e1f2556df470812ec7176fb85e3a0f5f6c66b562d62be0301e9eb401"
+
+[update]
+[update.modrinth]
+mod-id = "nsri5wVW"
+version = "5K5qQ2eP"

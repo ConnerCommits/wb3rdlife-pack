@@ -1,0 +1,13 @@
+name = "WbThirdLife"
+author = "Chugabunga"
+version = "1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "9ff503bcdbb7aa9720b6a075030375476c65cca59deae7305fd697314189ca8b"
+
+[versions]
+fabric = "0.19.3"
+minecraft = "26.2"
