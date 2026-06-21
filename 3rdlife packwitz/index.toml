@@ -210,6 +210,11 @@ hash = "8c91080e610d7c8c40ae6445d36af1cf591fe1ebf70718b3e6d4714232b23592"
 metafile = true
 
 [[files]]
+file = "mods/full-brightness-toggle.pw.toml"
+hash = "20f0d787d8b8fb92edb58bd87a432760e933ce9d220593927bff97490afe71c5"
+metafile = true
+
+[[files]]
 file = "mods/life-series.pw.toml"
 hash = "7a07c4be65232bdf700a871f57677a8d2cc03a4839a36ee8f80fac0d564be13b"
 metafile = true
