@@ -1,0 +1,13 @@
+name = "Realistic Campfires"
+filename = "realistic-campfires-9.0.2+26.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZEMQmiVU/versions/tZTOmDz4/realistic-campfires-9.0.2%2B26.1.jar"
+hash-format = "sha512"
+hash = "978015e115eb2e6316d14d80b902c0ae2ca43a6d7c7d69e84c4528101cef0d3f8ba7e3a8037c4b6c21592c22303decef2a7fb0f81bb8ff4e458b3b671c1845f5"
+
+[update]
+[update.modrinth]
+mod-id = "ZEMQmiVU"
+version = "tZTOmDz4"

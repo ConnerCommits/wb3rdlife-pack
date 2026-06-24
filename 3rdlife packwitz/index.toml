@@ -225,6 +225,11 @@ hash = "64eee34685461c44e657b33d9a982c1da9b3e21f2fe139907fc8a6d68359be14"
 metafile = true
 
 [[files]]
+file = "mods/no-hostiles-around-campfire.pw.toml"
+hash = "170c96bf6065b3ee89d01945023b3b02aaac3ee531fdca73690a256035af9327"
+metafile = true
+
+[[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "b234ade7fd54bb9d99c27769cd1635b18835752676d0cdd0a29af2b4146251a8"
 metafile = true
@@ -247,6 +252,11 @@ metafile = true
 [[files]]
 file = "mods/prickle.pw.toml"
 hash = "1fe3111b53ad44db2fb3506a53c2df37c70dfe07b2c8679f2592489a805ddeeb"
+metafile = true
+
+[[files]]
+file = "mods/realistic-campfires.pw.toml"
+hash = "6ee8285b2408b522e7a5c6933d58815cb20b8ca3749b07245b13990e59546beb"
 metafile = true
 
 [[files]]
